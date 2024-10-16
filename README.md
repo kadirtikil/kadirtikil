@@ -1,5 +1,14 @@
 ## Hi there 👋
 
+
+My Techstack
+
+
+What I'm doing now:
+- M. Sc. CS (Informatik) RWTH Aachen
+
+
+
 <!--
 **kadirtikil/kadirtikil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
