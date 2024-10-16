@@ -13,7 +13,7 @@ My Techstack
   </tr>
   <tr>
     <td><img src="/assets/python-3.svg" width="100" height="100"></td>
-    
+    <td><img src="/assets/java.svg" width="100" height="100"></td>
     <td><img src="/assets/scala-original-wordmark.svg" width="100" height="100"></td>
     <td><img src="/assets/c--4.svg" width="100" height="100"></td>
     <td><img src="/assets/c-1.svg" width="100" height="100"></td>
