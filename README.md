@@ -22,7 +22,7 @@ My Techstack
 </table>
 
 
-What I'm doing now:
+What I'm doing now: <br>
 - M. Sc. CS (Informatik) RWTH Aachen
 
 
