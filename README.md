@@ -20,5 +20,9 @@ My Techstack
     <td><img src="/assets/c.svg" width="100" height="100"></td>
   </tr>
 </table>
+
+
 What I'm doing now:
 - M. Sc. CS (Informatik) RWTH Aachen
+
+
